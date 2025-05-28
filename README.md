@@ -3,9 +3,9 @@ This is the final project of this course. This final project is required to desi
 These 3 types of CPUs are: Single Cycle Implementation, Pipelined Implementation, and Datapath with Hazard Detection.
 
 ## Contents
-- [Single Cycle Implementation](#Single Cycle Implementation)
-- [Pipelined Implementation](#Pipelined Implementation)
-- [Datapath with Hazard Detection](#Datapath with Hazard Detection)
+- [Single Cycle Implementation](https://github.com/TzuHsiang417/Computer-Organization/blob/main/README.md#single-cycle-implementation)
+- [Pipelined Implementation](https://github.com/TzuHsiang417/Computer-Organization/edit/main/README.md#pipelined-implementation)
+- [Datapath with Hazard Detection](https://github.com/TzuHsiang417/Computer-Organization/edit/main/README.md#pipelined-implementation)
 
 ## Single Cycle Implementation
 ### Description:
