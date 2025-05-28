@@ -4,8 +4,8 @@ These 3 types of CPUs are: Single Cycle Implementation, Pipelined Implementation
 
 ## Contents
 - [Single Cycle Implementation](https://github.com/TzuHsiang417/Computer-Organization/blob/main/README.md#single-cycle-implementation)
-- [Pipelined Implementation](https://github.com/TzuHsiang417/Computer-Organization/edit/main/README.md#pipelined-implementation)
-- [Datapath with Hazard Detection](https://github.com/TzuHsiang417/Computer-Organization/edit/main/README.md#pipelined-implementation)
+- [Pipelined Implementation](https://github.com/TzuHsiang417/Computer-Organization/blob/main/README.md#pipelined-implementation)
+- [Datapath with Hazard Detection](https://github.com/TzuHsiang417/Computer-Organization/blob/main/README.md#pipelined-implementation)
 
 ## Single Cycle Implementation
 ### Description:
